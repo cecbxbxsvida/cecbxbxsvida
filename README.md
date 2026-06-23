@@ -2,6 +2,8 @@
   <img height="154" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<a href="https://www.linkedin.com/in/cec%C3%ADlia-lopes-costa-2393a82b6/">Clique aqui para acessar meu LinkedIn</a>
+
 ###
 
 <div align="center">
